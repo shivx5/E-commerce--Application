@@ -1,0 +1,33 @@
+.total-icons{
+
+    position:fixed;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+.total-icons .home-icon {
+    position: absolute;
+   top: 10px;
+}
+.total-icons .contact-icon {
+    position: absolute;
+    top: 40px;
+}
+    
+.total-icons .about-icon {
+    position: absolute;
+    top: 70px;
+}
+    
+.total-icons .product-icon {
+    position: absolute;
+    top: 100px;
+}
+    
+.total-icons .post-icon {
+    position: absolute;
+    top: 130px;
+}
+    
+    

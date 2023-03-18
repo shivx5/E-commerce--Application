@@ -1,0 +1,27 @@
+.inside-admin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(153, 255, 221);
+    border-radius: 10px;
+    position: relative;
+    width: 150px;
+    height: 100px;
+    min-width: 150px;
+
+}
+.inside-admin button{
+    position: absolute;
+    background-color: rgb(164, 253, 223);
+    color: red;
+    border: none;
+     margin-top: 0px; 
+     left:100px
+}
+.as-items{
+    /* margin-top: 0; */
+    padding: 0px;
+    margin-left: 10px;
+
+}

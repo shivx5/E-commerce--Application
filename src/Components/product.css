@@ -1,0 +1,53 @@
+.products{
+    position: relative;
+    margin-left: 40px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+
+}
+.items{
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: 'Explora', cursive;
+    font-family: 'Rowdies', cursive;;
+}
+.items img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top:10px;
+    left: 0;
+    
+}
+
+.items .items-price{
+    color: rgb(12, 108, 10);
+    /* font-size: large; */
+    text-align: center;
+}
+.items .items-name{
+    text-align: center;
+    font-size: large;
+}
+.items .more-icon{
+    position: absolute;
+}
+.products input{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left:650px;
+}
+.products button{
+    position: absolute;
+    height: 20px;
+    margin-top: 3px;
+    left:770px;
+    background-color: blue;
+    border: none;
+    color: white;
+}

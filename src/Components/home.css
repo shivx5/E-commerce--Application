@@ -1,0 +1,43 @@
+.total-home {
+    
+position: relative;
+
+
+}
+
+.home-1{
+
+   position: absolute;
+   color: rgb(255, 190, 10);
+   font-size:100px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   left: 20%;
+   /* top:400px; */
+   /* width: 190px; */
+   text-align: center;
+   font-family: 'Explora', cursive;
+   font-family: 'Londrina Sketch', cursive;
+   
+}
+.home-2{
+    width: 35%;
+    /* height: 50%; */
+    right: 100px;
+    /* bottom:0; */
+    top:150px;
+    font-size: x-large;
+    position: absolute;
+    color: rgb(80, 80, 23);
+     background-color: rgb(186, 255, 255); 
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+img{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 280px;
+    top:100px;
+    
+}

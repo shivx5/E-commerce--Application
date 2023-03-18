@@ -1,0 +1,38 @@
+
+.total-login{
+    margin-top: 250px;
+    margin-left: 650px;
+    margin-right: 600px;
+    background-color: aqua;
+    border-radius: 25px;
+    position: relative;
+    width:200px;
+    height: 150px;;
+}
+.inputs1{
+    margin-top: 10px;
+    border: none;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.inputs2{
+    margin-top: 10px;
+    border: none;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.login-button{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 90px;
+    background-color: rgb(184, 255, 226);
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+.user-content .heading{
+    position: relative;
+    top: -40px;
+    left: 70px;
+}
